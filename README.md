@@ -58,7 +58,7 @@ Welcome to my collection of machine learning and data analysis projects! Each pr
 
 ## 📬 Contact
 Feel free to connect or reach out:
-- 📧 your.email@example.com
+- 📧 snehasaini0040@gmail.com 
 - 🔗 [LinkedIn](https://linkedin.com/in/sneha-saini1)
 
 ---
